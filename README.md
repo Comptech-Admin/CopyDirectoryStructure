@@ -1,6 +1,6 @@
 # Copy Directory Structure
 
-This PowerShell script copies the directory structure from a source folder to a target folder without copying the file contents.
+This PowerShell script copies the directory structure from a source folder to a target folder without copying the file contents. For Windows PCs
 
 ## Usage
 
@@ -37,4 +37,5 @@ Directory structure copied successfully from C:\Example\SourceFolder to C:\Examp
    - Navigate to the directory where you saved the script.
    - Run the script by typing `.\CopyDirectoryStructure.ps1` and pressing `Enter`.
    - Follow the prompts to enter the source and target directory paths.
+
 
